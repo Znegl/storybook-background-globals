@@ -17,7 +17,7 @@ const preview: Preview = {
     }
   },
   initialGlobals: {
-    backgrounds: {value: 'Vanilla'}
+    backgrounds: {value: 'Powderblue'}
   }
 };
 
