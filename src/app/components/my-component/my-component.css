@@ -1,0 +1,14 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  margin: auto;
+  max-width: 20rem;
+  background: white;
+  border-radius: 2rem;
+  padding: 2rem;
+}
+
+h1, p {
+  margin: 0;
+}
